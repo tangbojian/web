@@ -18,6 +18,7 @@ public class UserController {
 	public void index(){
 		System.out.println("index");
 		System.out.print("1");
+		System.out.println("home test");
 	}
 	
 }
