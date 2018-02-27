@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @author bjtang
- * @date   2017Äê5ÔÂ17ÈÕ  
+ * @date   2017??5??17??  
  * @desc   user controller
  */
 
@@ -17,6 +17,7 @@ public class UserController {
 	@RequestMapping("/index")
 	public void index(){
 		System.out.println("index");
+		System.out.print("1");
 	}
 	
 }
